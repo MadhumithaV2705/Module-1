@@ -13,15 +13,8 @@ To write a Python program to print the following integer literals: 123, 456, 789
 ```python
 # Reg.No-
 # Name-
-# Write your code here
-
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+men_stepped_on_the_moon = int(input())
+print(men_stepped_on_the_moon)
 
 ```
 ## OUTPUT
